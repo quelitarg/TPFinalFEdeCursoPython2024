@@ -15,7 +15,7 @@ body {
 }
 
 .primer_texto{
-    margin-top: 80px;
+    /*margin-top: 80px;*/
     color: var(--primary-color);
     padding:7px;
 }
@@ -23,7 +23,7 @@ body {
 .segundo_texto{
     color: var( --primary-bis-color);
     padding:7px;
-    margin-bottom:10px;
+    margin-bottom:5px;
 }
  
 
@@ -47,7 +47,7 @@ color:var(--third-bis-color);
     flex-direction: column;
     justify-content:start;
     align-content: space-around;
-    max-width: 1300px;
+    /*max-width: 1300px;*/
 
 }
 #logo-whatssap{
@@ -92,7 +92,7 @@ color:var(--third-bis-color);
     display:grid;
     grid-template-columns:1fr 180px 1fr;
     height: 80px;
-    max-width: 1300px;    
+    /*max-width: 1300px; */   
 }
 
 #footer {
